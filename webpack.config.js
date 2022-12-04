@@ -86,7 +86,7 @@ if (currentTask == "dev") {
   config.devServer = {
     static: "./dev",
     watchFiles: path.join(__dirname, "src/**/*.html"),
-    port: 3000,
+    port: 3010,
   };
 }
 
