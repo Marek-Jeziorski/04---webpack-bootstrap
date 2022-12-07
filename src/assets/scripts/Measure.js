@@ -3,7 +3,7 @@ import debounce from "lodash/debounce";
 class Measure {
   constructor() {
     this.injectHtml();
-    // this is a change
+
     // TODO: id = "measureMe" to any element in index.html
     this.element = document.getElementById("measureME");
 
