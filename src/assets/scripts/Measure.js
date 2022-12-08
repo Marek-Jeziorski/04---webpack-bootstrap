@@ -109,6 +109,7 @@ class Measure {
       `
     <div class="measure">
       <div class="measure__close">X</div>
+      <hr>
       <p>win.outerWidth <span id="outerWidth"></span></p>
       <p>win.innerWidth <span id="innerWidth"></span></p>
       <p>win.outerHeight <span id="outerHeight"></span></p>
