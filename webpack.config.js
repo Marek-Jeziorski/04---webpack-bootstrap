@@ -15,7 +15,7 @@ const postCSSPlugins = [
   require("autoprefixer"),
 ];
 
-//------------------------ COPY ASSETS HANDLER ------------------
+//------------------------ MY-MODULE: COPY ASSETS HANDLER -------
 class MyRunAfterCompile {
   constructor(copyAssetsTo) {
     this.copyAssetsTo = copyAssetsTo;
